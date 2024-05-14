@@ -1,0 +1,25 @@
+* {
+    font-family: "Quicksand" serif;
+}
+.product-card {
+   border: 2px solid;
+   width: 250px;
+   padding: 20px;
+   border-radius: 10px;
+   background-color: cornflowerblue;
+   justify-content: center;
+   text-align: center;
+}
+
+.image .product-img {
+    height: 250px;
+    width: 250px;
+    position: relative;
+    align-items: center;
+    border-radius: 5%;
+}
+
+button {
+    margin-top: 10px;
+}
+
